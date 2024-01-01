@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Sportblog\Sportblog\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Sportblog\Sportblog\obj\Debug\Main.CreateForm.resources
+C:\Users\USER\source\repos\Sportblog\Sportblog\obj\Debug\Main.Form1.resources
+C:\Users\USER\source\repos\Sportblog\Sportblog\obj\Debug\Main.LoginForm.resources
+C:\Users\USER\source\repos\Sportblog\Sportblog\obj\Debug\Sportblog.Properties.Resources.resources
+C:\Users\USER\source\repos\Sportblog\Sportblog\obj\Debug\Main.UserInfoForm.resources
+C:\Users\USER\source\repos\Sportblog\Sportblog\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Sportblog\Sportblog\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Sportblog\Sportblog\bin\Debug\Sportblog.exe.config
+C:\Users\USER\source\repos\Sportblog\Sportblog\bin\Debug\Sportblog.exe
+C:\Users\USER\source\repos\Sportblog\Sportblog\bin\Debug\Sportblog.pdb
+C:\Users\USER\source\repos\Sportblog\Sportblog\obj\Debug\Sportblog.exe
+C:\Users\USER\source\repos\Sportblog\Sportblog\obj\Debug\Sportblog.pdb
